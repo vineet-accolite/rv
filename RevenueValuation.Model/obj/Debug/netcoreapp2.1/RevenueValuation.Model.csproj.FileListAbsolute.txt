@@ -1,0 +1,9 @@
+D:\Work\EAI\Git Codebase\RevenueValuation-docker\RevenueValuation\RevenueValuation.Model\bin\Debug\netcoreapp2.1\RevenueValuation.Model.deps.json
+D:\Work\EAI\Git Codebase\RevenueValuation-docker\RevenueValuation\RevenueValuation.Model\bin\Debug\netcoreapp2.1\RevenueValuation.Model.dll
+D:\Work\EAI\Git Codebase\RevenueValuation-docker\RevenueValuation\RevenueValuation.Model\bin\Debug\netcoreapp2.1\RevenueValuation.Model.pdb
+D:\Work\EAI\Git Codebase\RevenueValuation-docker\RevenueValuation\RevenueValuation.Model\obj\Debug\netcoreapp2.1\RevenueValuation.Model.csprojAssemblyReference.cache
+D:\Work\EAI\Git Codebase\RevenueValuation-docker\RevenueValuation\RevenueValuation.Model\obj\Debug\netcoreapp2.1\RevenueValuation.Model.csproj.CoreCompileInputs.cache
+D:\Work\EAI\Git Codebase\RevenueValuation-docker\RevenueValuation\RevenueValuation.Model\obj\Debug\netcoreapp2.1\RevenueValuation.Model.AssemblyInfoInputs.cache
+D:\Work\EAI\Git Codebase\RevenueValuation-docker\RevenueValuation\RevenueValuation.Model\obj\Debug\netcoreapp2.1\RevenueValuation.Model.AssemblyInfo.cs
+D:\Work\EAI\Git Codebase\RevenueValuation-docker\RevenueValuation\RevenueValuation.Model\obj\Debug\netcoreapp2.1\RevenueValuation.Model.dll
+D:\Work\EAI\Git Codebase\RevenueValuation-docker\RevenueValuation\RevenueValuation.Model\obj\Debug\netcoreapp2.1\RevenueValuation.Model.pdb

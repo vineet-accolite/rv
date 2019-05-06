@@ -1,0 +1,14 @@
+D:\Work\EAI\Git Codebase\RevenueValuation-docker\RevenueValuation\RevenueValuation.Service\bin\Release\netcoreapp2.1\RevenueValuation.Service.deps.json
+D:\Work\EAI\Git Codebase\RevenueValuation-docker\RevenueValuation\RevenueValuation.Service\bin\Release\netcoreapp2.1\RevenueValuation.Service.dll
+D:\Work\EAI\Git Codebase\RevenueValuation-docker\RevenueValuation\RevenueValuation.Service\bin\Release\netcoreapp2.1\RevenueValuation.Service.pdb
+D:\Work\EAI\Git Codebase\RevenueValuation-docker\RevenueValuation\RevenueValuation.Service\bin\Release\netcoreapp2.1\RevenueValuation.Data.dll
+D:\Work\EAI\Git Codebase\RevenueValuation-docker\RevenueValuation\RevenueValuation.Service\bin\Release\netcoreapp2.1\RevenueValuation.Model.dll
+D:\Work\EAI\Git Codebase\RevenueValuation-docker\RevenueValuation\RevenueValuation.Service\bin\Release\netcoreapp2.1\RevenueValuation.Data.pdb
+D:\Work\EAI\Git Codebase\RevenueValuation-docker\RevenueValuation\RevenueValuation.Service\bin\Release\netcoreapp2.1\RevenueValuation.Model.pdb
+D:\Work\EAI\Git Codebase\RevenueValuation-docker\RevenueValuation\RevenueValuation.Service\obj\Release\netcoreapp2.1\RevenueValuation.Service.csprojAssemblyReference.cache
+D:\Work\EAI\Git Codebase\RevenueValuation-docker\RevenueValuation\RevenueValuation.Service\obj\Release\netcoreapp2.1\RevenueValuation.Service.csproj.CoreCompileInputs.cache
+D:\Work\EAI\Git Codebase\RevenueValuation-docker\RevenueValuation\RevenueValuation.Service\obj\Release\netcoreapp2.1\RevenueValuation.Service.AssemblyInfoInputs.cache
+D:\Work\EAI\Git Codebase\RevenueValuation-docker\RevenueValuation\RevenueValuation.Service\obj\Release\netcoreapp2.1\RevenueValuation.Service.AssemblyInfo.cs
+D:\Work\EAI\Git Codebase\RevenueValuation-docker\RevenueValuation\RevenueValuation.Service\obj\Release\netcoreapp2.1\RevenueValuation.Service.csproj.CopyComplete
+D:\Work\EAI\Git Codebase\RevenueValuation-docker\RevenueValuation\RevenueValuation.Service\obj\Release\netcoreapp2.1\RevenueValuation.Service.dll
+D:\Work\EAI\Git Codebase\RevenueValuation-docker\RevenueValuation\RevenueValuation.Service\obj\Release\netcoreapp2.1\RevenueValuation.Service.pdb
